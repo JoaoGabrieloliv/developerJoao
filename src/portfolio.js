@@ -73,7 +73,7 @@ const educationInfo = {
 const techStack = {
   viewSkillBars: true,
   experience: [
-    { Stack: "Frontend/Design (Frontend)", progressPercentage: "70%" },
+    { Stack: "Front-end", progressPercentage: "70%" },
     { Stack: "Backend", progressPercentage: "90%" },
     { Stack: "Banco de Dados", progressPercentage: "80%" }
   ],
